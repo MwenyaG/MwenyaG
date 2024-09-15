@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact **I can play most sports**
 
-<h3 align="left">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3> <a href="www.linkedin.com/in/mwenya-muyeba-8599ba222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mwenya (george) muyeba" height="30" width="40" /></a>
+<p align="left">
 <a href="www.linkedin.com/in/mwenya-muyeba-8599ba222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mwenya (george) muyeba" height="30" width="40" /></a>
 </p>
 
