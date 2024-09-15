@@ -21,28 +21,6 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<div style="text-align: center;">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></a><p>Angular</p>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></a><p>Angular</p>
-
-</div> 
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="C#" width="40" height="40"/>C#</a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" alt="C++" width="40" height="40"/> Flutter
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt=".NET" width="40" height="40"/> .NET
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="40" height="40"/> Ionic
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> React
-</a>
 
 
 <h3 align="left">Frameworks:</h3>
