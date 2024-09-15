@@ -18,7 +18,7 @@
 <a href="www.linkedin.com/in/mwenya-muyeba-8599ba222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mwenya (george) muyeba" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="center">Languages:</h3>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> C#</a><a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> Dart</a><a href="#" target="_blank" rel="noreferrer">
