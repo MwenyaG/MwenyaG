@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Mwenya Muyeba (George)</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="left">Junior Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" >
 
