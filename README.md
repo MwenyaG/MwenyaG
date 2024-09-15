@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Mwenya Muyeba (George)</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" >
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21qb3F3bnJ3ZzEzYzFjazJ1eHd5cXNxMDQ5eTE5anM2ZXhncGRmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" >
 
 
 
