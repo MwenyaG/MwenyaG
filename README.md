@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bantu Ride (e-Hailing app)**
 
-- 🌱 I’m currently learning **PHP/ React-Native**
+- 🌱 I’m currently learning **Angular Framework**
 
 - 💬 Ask me about **Android/ Flutter**
 
