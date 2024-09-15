@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Mwenya Muyeba (George)</h1>
 <h3 align="left">Junior Software Engineer</h3>
 
-<img align="center" alt="Coding"  src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" >
+<img align="center" alt="Coding"  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwenyag&label=Profile%20views&color=0e75b6&style=flat" alt="mwenyag"/> </p>
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" >
