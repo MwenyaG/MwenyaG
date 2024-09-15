@@ -4,6 +4,8 @@
 <img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwenyag&label=Profile%20views&color=0e75b6&style=flat" alt="mwenyag"/> </p>
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" >
+
 
 - 🔭 I’m currently working on **Bantu Ride**
 
