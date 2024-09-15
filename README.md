@@ -21,6 +21,13 @@
 </p>
 
 <h3 align="left">Languages:</h3>
+<div style="text-align: center;">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <p>Angular</p>
+</div>
+
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="C#" width="40" height="40"/>C#</a>
 <a href="#" target="_blank" rel="noreferrer">
