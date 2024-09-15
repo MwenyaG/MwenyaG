@@ -26,7 +26,7 @@
 
 
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="center">Frameworks:</h3>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> Angular</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40"/> Flutter</a><a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt=".NET" width="40" height="40"/> .NET</a><a href="#" target="_blank" rel="noreferrer">
@@ -34,14 +34,14 @@
 
 
  
-<h3 align="left">Tools:</h3>
+<h3 align="center">Tools:</h3>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> Postman</a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> Figma</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40"/> Github</a><a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap</a><a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Katalon" width="40" height="40"/> Katalon</a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="Jmeter" width="40" height="40"/> Jmeter</a>
 
-<h3 align="left">Platforms:</h3>
+<h3 align="center">Platforms:</h3>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> Android Studio</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> Visual Studio Code</a><a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt=" IntelliJ Idea" width="40" height="40"/>  IntelliJ Idea</a><a href="#" target="_blank" rel="noreferrer">
