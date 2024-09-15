@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwenyag&label=Profile%20views&color=0e75b6&style=flat" alt="mwenyag" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mwenyag&label=Profile%20views&color=0e75b6&style=flat" alt="mwenyag" /> </p>
 
 - 🔭 I’m currently working on **Bantu Ride (e-Hailing app)**
 
