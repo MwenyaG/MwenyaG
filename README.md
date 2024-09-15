@@ -24,7 +24,7 @@
 <h3 align="left">Languages:</h3> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 
 <h3 align="left">Frameworks:</h3>
- </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+ </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=angular%20image%20logo%20src&imgurl=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fs.cdpn.io%2F68939%2Fangular-logo.png&imgrefurl=https%3A%2F%2Fcodepen.io%2Fjpost-design%2Fpen%2FzqqerL&docid=MlhfTDySB3VX8M&tbnid=ur5AmS3sdJeiXM&vet=12ahUKEwjn6fexycSIAxXW_aACHUmSJLkQM3oECBcQAA..i&w=1020&h=1020&hcb=2&ved=2ahUKEwjn6fexycSIAxXW_aACHUmSJLkQM3oECBcQAA" alt="flutter" width="40" height="40"/> </a> 
 
  <h3 align="left">Tools:</h3>
 
