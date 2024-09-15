@@ -21,26 +21,26 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
+<div style="display: flex; justify-content: space-around; text-align: center;">
+  <div>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
     </a>
     <p>Angular</p>
   </div>
-  <div style="text-align: center;">
+  <div>
     <a href="#" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40"/>
     </a>
     <p>Flutter</p>
   </div>
-  <div style="text-align: center;">
+  <div>
     <a href="#" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt=".NET" width="40" height="40"/>
     </a>
     <p>.NET</p>
   </div>
-  <div style="text-align: center;">
+  <div>
     <a href="#" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="40" height="40"/>
     </a>
