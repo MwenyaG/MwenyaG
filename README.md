@@ -21,40 +21,22 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<h3 align="left">Frameworks:</h3>
-<div style="display: flex; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
-    </a>
-    <p>Angular</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40"/>
-    </a>
-    <p>Flutter</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt=".NET" width="40" height="40"/>
-    </a>
-    <p>.NET</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="40" height="40"/>
-    </a>
-    <p>Ionic</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    </a>
-    <p>React</p>
-  </div>
-</div>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> Angular
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40"/> Flutter
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt=".NET" width="40" height="40"/> .NET
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="40" height="40"/> Ionic
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> React
+</a>
+
 
  
 
