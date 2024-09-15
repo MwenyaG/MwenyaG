@@ -7,15 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwenyag&label=Profile%20views&color=0e75b6&style=flat" alt="mwenyag" /> </p>
 
-- 🔭 I’m currently working on **Bantu Ride (e-Hailing app)**
+- 🔭 I’m currently working on **Bantu Ride**
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Android/ Flutter**
+- 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **gmuyeba2001@gmail.com**
-
-- ⚡ Fun fact **Im highly extroverted**
+- ⚡ Fun fact **I can play most sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
