@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mwenya Muyeba (George)</h1>
+<h1 align="center"> Hi 👋, I'm Mwenya Muyeba (George)</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" >
@@ -41,7 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> Postman</a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> Figma</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40"/> Github</a><a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" alt="Katalon" width="40" height="40"/> Katalon</a><a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="Jmeter" width="40" height="40"/> Jmeter</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" alt="Katalon" width="40" height="40"/> Katalon</a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="Jmeter" width="40" height="40"/> Jmeter</a>
 
 <h3 align="left">Platforms:</h3>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
