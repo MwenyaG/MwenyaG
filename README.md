@@ -8,13 +8,10 @@
 <img align="right" width="400"alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" >
 
 
-- 🔭 I’m currently working on **Bantu Ride**
+- 🔭 I’m currently working on **Ibala Farm Management System**
 
-- 🌱 I’m currently learning **Angular**
+- 💬 Ask me about **Web Development**
 
-- 💬 Ask me about **Android Development**
-
-- ⚡ Fun fact **I can play most sports**
 
 <h3 align="left"> <a href="https://www.linkedin.com/in/mwenya-muyeba-8599ba222">Connect with me on LinkedIn</a> </h3>
 
