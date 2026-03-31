@@ -1,46 +1,88 @@
-<h1 align="center"> Hi 👋, I'm George Mwenya Muyeba</h1>
-<h3 align="left">Junior Software Engineer | Freelance Dev</h3>
+<h1 align="center">George Mwenya Muyeba</h1>
+<h3 align="center">Junior Software Engineer | Building Scalable Web & Mobile Systems</h3>
 
-<img align="center" alt="Coding"  width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" >
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mwenyag&label=Profile%20views&color=0e75b6&style=flat" alt="mwenyag"/>
+</p>
 
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/74038190/212897795-3c4c6f62-5c1d-4e63-bc88-9c5eac3c4d5a.gif" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwenyag&label=Profile%20views&color=0e75b6&style=flat" alt="mwenyag"/> </p>
-<img align="right" width="400"alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" >
+---
 
+### About Me
 
-- 🔭 I’m currently working on **Ibala Farm Management System**
+- Currently building **Ibala Farm Management System**
+- Focused on scalable backend systems and clean frontend architecture
+- Interested in full-stack development and real-world problem solving
+- Open to remote opportunities
 
-- 💬 Ask me about **Web Development**
+---
 
+### Connect
 
-<h3 align="left"> <a href="https://www.linkedin.com/in/mwenya-muyeba-8599ba222">Connect with me on LinkedIn</a> </h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mwenya-muyeba-8599ba222" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-George%20Muyeba-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages:</h3>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> C#</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> Dart</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/> SQL</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeSript" width="30" height="30"/>  TypeSript</a>
+### Tech Stack
 
+#### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
+</p>
 
+#### Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40"/> 
+</p>
 
-<h3 align="left">Frameworks:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> Angular</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40"/> Flutter</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt=".NET" width="40" height="40"/> .NET</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="40" height="40"/> Ionic</a><a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> React</a>
+#### Tools & Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/> 
+</p>
 
+#### Platforms & IDEs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/> 
+</p>
 
- 
-<h3 align="left">Tools:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> Postman</a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> Figma</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40"/> Github</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Katalon" width="40" height="40"/> Katalon</a><a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="Jmeter" width="40" height="40"/> Jmeter</a>
+---
 
-<h3 align="left">Platforms:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> Android Studio</a> <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> Visual Studio Code</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt=" IntelliJ Idea" width="40" height="40"/>  IntelliJ Idea</a><a href="#" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/> Eclipse</a>
+### Featured Project
+
+#### Ibala Farm Management System
+
+A full-stack platform for managing livestock, poultry, and farm operations with a focus on scalability and usability.
+
+Key areas:
+- Livestock and poultry tracking
+- Structured data management
+- Scalable backend architecture
+- Responsive interface design
+
+---
+
+### Philosophy
+
+> Build systems that are reliable, maintainable, and designed with intent.
